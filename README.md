@@ -8,7 +8,7 @@ The Option Pricing Toolkit is a Python package designed for empowering financial
 
 ### **OptionPricing Class**
 
-The core functionality is encapsulated in the OptionPricing class, leveraging essential libraries like NumPy, SciPy, and utilities for robust mathematical computations and data manipulation. Here's an overview of included methods:
+The core functionality is summarized in the OptionPricing class, using essential libraries like NumPy, SciPy, and utilities for robust mathematical computations and data manipulation. Here's an overview of included methods:
 
 #### **Cox-Ross-Rubinstein (CRR) Model:**
 Computes European and American call/put option prices using the CRR model.
