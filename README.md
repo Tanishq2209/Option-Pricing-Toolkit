@@ -2,7 +2,7 @@
 
 ## **Introduction**
 
-The Option Pricing Toolkit is a Python package designed to empower financial analysts, investors, and decision-makers with robust tools for option pricing and analysis. Leveraging a range of financial models and numerical methods, it provides accurate computations of option parameters and prices, facilitating informed decision-making in the financial domain.
+The Option Pricing Toolkit is a Python package designed for empowering financial analysts, investors, and decision-makers with different vigorous tools for option pricing and analysis. Using a range of financial models and numerical methods, it provides accurate computations of option parameters and prices, easing in informed decision-making in the financial markets domain.
 
 ## **Package Contents**
 
@@ -10,22 +10,17 @@ The Option Pricing Toolkit is a Python package designed to empower financial ana
 
 The core functionality is encapsulated in the OptionPricing class, leveraging essential libraries like NumPy, SciPy, and utilities for robust mathematical computations and data manipulation. Here's an overview of included methods:
 
-#### **Cox-Ross-Rubinstein (CRR) Model**
+#### **Cox-Ross-Rubinstein (CRR) Model:**
+Computes European and American call/put option prices using the CRR model.
 
-- **CRR_stock:** Computes stock price matrix using the CRR model.
-- **CRR_Option:** Computes European and American call/put option prices using the CRR model.
+#### **Black-Scholes Model:**
+Computes the European and American call/put option prices using the Black-Scholes model.
 
-#### **Black-Scholes Model**
+#### **Monte Carlo Simulation:**
+Computes European and American call/put option prices using Monte Carlo simulation.
 
-- **BlackScholes_Option:** Computes European call/put option prices using the Black-Scholes model.
-
-#### **Monte Carlo Simulation**
-
-- **MonteCarlo_Option:** Computes European call/put option prices using Monte Carlo simulation.
-
-#### **Numerical Integration**
-
-- **BS_Price_Int:** Computes European call/put option prices using numerical integration.
+#### **Numerical Integration: **
+Computes European call/put option prices using numerical integration.
 
 #### **Laplace Transform Method (Black-Scholes Model)**
 
