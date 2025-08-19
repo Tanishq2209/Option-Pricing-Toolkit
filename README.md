@@ -19,7 +19,7 @@ Computes the European and American call/put option prices using the Black-Schole
 #### **Monte Carlo Simulation:**
 Computes European and American call/put option prices using Monte Carlo simulation.
 
-#### **Numerical Integration: **
+#### **Numerical Integration:**
 Computes European call/put option prices using numerical integration.
 
 #### **Laplace Transform Method (Black-Scholes Model)**
